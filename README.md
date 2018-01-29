@@ -6,7 +6,7 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG-1074.jpg 
+[selfie]:  hello-world-Bregn/IMG-1074.JPG 
 
 2. Tell me something interesting about yourself
 I play video games
